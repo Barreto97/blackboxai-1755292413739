@@ -1,0 +1,25 @@
+{
+  "name": "siteinfotechtecnologia",
+  "version": "1.0.0",
+  "description": "Site InfoTech Tecnologia - Suporte Técnico e Energia Solar",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "infotech",
+    "tecnologia",
+    "suporte",
+    "solar"
+  ],
+  "author": "InfoTech",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
